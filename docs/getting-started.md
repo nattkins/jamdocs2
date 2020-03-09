@@ -47,9 +47,9 @@ It isn't that's true, and we are keen on the traditional document first approach
 
 The philosophy behind Documentation-Driven Development is simple: **from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken.**
 
-* Document the feature _first_. Figure out how you're going to describe the feature to users; if it's not documented, it doesn't exist. _This is where a demo can really come into its own, its just the most efficient way to get the user to see what they are going to get, with the demo done and approved - the write up and screenshotting is easy_
+* Document the feature _first_. Figure out how you're going to describe the feature to users; if it's not documented, it doesn't exist. _This is where a demo can really come into its own, its just the most efficient way to get the user to see what they are going to get, with the demo done and approved - the write-up and screenshotting are straightforward._
 * Whenever possible, documentation should be reviewed by users before any development begins.
-* Once documentation has been written, development should commence, and test-driven development is preferred.
+* Once documentation has been written, _recorded,_ development should commence, and test-driven development is preferred.
 * Unit tests should be written that test the features as described by the documentation. If the functionality ever comes out of alignment with the documentation, tests should fail.
 * When a feature is being modified, it should be modified documentation-first.
 * When documentation is modified, so should be the tests.
@@ -57,7 +57,7 @@ The philosophy behind Documentation-Driven Development is simple: **from the per
 
 So, the preferred order of operations for new features:
 
-* Write documentation
+* Do Demo and record
 * Get feedback on documentation
 * Test-driven development (where tests align with documentation)
 * Deliver feature
