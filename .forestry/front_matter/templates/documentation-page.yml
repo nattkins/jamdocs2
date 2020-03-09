@@ -15,6 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/editing-in-forestry.md
 - docs/experiences.md
 - docs/what-we-like.md
