@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Experiences",
+      "topics": [
+        {
+          "title": "Migrations",
+          "slug": "migrations"
+        }
+      ]
+    },
+    {
       "section": "Who We Are",
       "topics": [
         {
@@ -10,19 +19,6 @@
         {
           "title": "What We like",
           "slug": "wwl"
-        }
-      ]
-    },
-    {
-      "section": "Setup",
-      "topics": [
-        {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
         }
       ]
     }
