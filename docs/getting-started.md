@@ -43,7 +43,7 @@ This is part of what we mean by a documentation first approach
 
 ### This isn't what is usually understood by document first, is it?
 
-It isn't that's true, and we are keen on the traditional document first approach, this is from [github](https://gist.github.com/zsup/9434452 "ddd.md")
+It isn't that's true, and we are keen on the traditional document first approach, this is from [github](https://gist.github.com/zsup/9434452 "ddd.md"), with our little additions.
 
 The philosophy behind Documentation-Driven Development is simple: **from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken.**
 
