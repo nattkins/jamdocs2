@@ -4,12 +4,12 @@
       "section": "Introduction",
       "topics": [
         {
-          "title": "What We like",
-          "slug": "wwl"
-        },
-        {
           "title": "Who We Are",
           "slug": "getting-started"
+        },
+        {
+          "title": "What We like",
+          "slug": "wwl"
         }
       ]
     },
