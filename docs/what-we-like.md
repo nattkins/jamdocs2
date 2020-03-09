@@ -1,5 +1,5 @@
 ---
-title: What we like
+title: What We like
 date: 2020-02-09
 slug: wwl
 
