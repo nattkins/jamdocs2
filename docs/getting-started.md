@@ -4,7 +4,6 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
 
 ---
-## Our Approach
 
 * We relish large engaging meetings (both remote and in-person) and we use liberating structures to do this
 * Adoption and engagement are central to our practice - we want to help our clients do amazing things.
