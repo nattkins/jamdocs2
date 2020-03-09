@@ -1,21 +1,11 @@
 ---
 title: Getting started
-date: 2018-09-15 07:42:34
+date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
+
 ---
 
-## What is Jamdocs
+## Bravo Criteria
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+Bravo Criteria are a self-organizing consultancy that pulls together a group of diverse but like-minded people that are passionate about problem-solving in organizations, who work with the goal of bringing that same attitude to the whole organization.
 
-## Local installation
-
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
-
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
-
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
