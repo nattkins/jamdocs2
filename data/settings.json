@@ -1,14 +1,10 @@
 {
   "sidebar": [
     {
-      "section": "What we like",
-      "topics": ""
-    },
-    {
       "section": "Who We Are",
       "topics": [
         {
-          "title": "Who are Bravo",
+          "title": "We are Bravo",
           "slug": "getting-started"
         },
         {
@@ -16,6 +12,10 @@
           "slug": "wwl"
         }
       ]
+    },
+    {
+      "section": "What we like",
+      "topics": ""
     },
     {
       "section": "Experiences",
