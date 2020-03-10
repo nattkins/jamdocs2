@@ -1,13 +1,8 @@
 {
   "sidebar": [
     {
-      "section": "Experiences",
-      "topics": [
-        {
-          "title": "Migrations",
-          "slug": "migrations"
-        }
-      ]
+      "section": "What we like",
+      "topics": ""
     },
     {
       "section": "Who We Are",
@@ -19,6 +14,15 @@
         {
           "title": "What We like",
           "slug": "wwl"
+        }
+      ]
+    },
+    {
+      "section": "Experiences",
+      "topics": [
+        {
+          "title": "Migrations",
+          "slug": "migrations"
         }
       ]
     }
