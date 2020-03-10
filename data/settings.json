@@ -15,7 +15,12 @@
     },
     {
       "section": "What we like",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Tools",
+          "slug": "wwl"
+        }
+      ]
     },
     {
       "section": "Experiences",
