@@ -4,9 +4,9 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/wwl" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/experiences" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/getting-started" text="Who We Are" icon="BookOpenIcon" />
+        <Shortcut link="/wwl" text="How We Work" icon="CoffeeIcon" />
+        <Shortcut link="/experiences" text="Where we work" icon="AnchorIcon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
