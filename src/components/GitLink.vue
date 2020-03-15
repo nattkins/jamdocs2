@@ -1,6 +1,5 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
-    <github-icon class="icon" />
+  <a href="https://nevilleattkins.typeform.com/to/DvV1sM" :class="size" title="Typeform" aria-label="typeform">
     {{text}}
   </a>
 </template>
@@ -19,7 +18,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Fork me on Github'
+      default: 'Ask a question'
     }
   }
 }
