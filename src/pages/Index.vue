@@ -33,7 +33,6 @@ export default {
   data() {
     return {
       description: 'We listen, ask questions and help you to make things better than when we found them'
-'
     }
   },
   metaInfo() {
