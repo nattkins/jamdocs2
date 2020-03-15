@@ -39,7 +39,7 @@ export default {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'You'll love working with us.' }
+        { key: 'description', name: 'description', content: 'You will love working with us.' }
       ]
     }
   }
