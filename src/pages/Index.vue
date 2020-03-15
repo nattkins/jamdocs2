@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'We listen, ask questions and help you to make things better than when we found them'
+      description: 'We listen, ask questions and help you make things better.'
     }
   },
   metaInfo() {
