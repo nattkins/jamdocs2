@@ -8,6 +8,7 @@
         <Shortcut link="/wwl" text="How We Work" icon="CoffeeIcon" />
         <Shortcut link="/experiences" text="Our History" icon="AnchorIcon" />
       </nav>
+       <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
