@@ -54,7 +54,7 @@ export default {
 
 h1 {
   text-align: center;
-  max-width: 600px;
+  max-width: 410px;
   margin: 1.5em auto 1.5em;
 
   @include respond-above(md) {
