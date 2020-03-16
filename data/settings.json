@@ -13,6 +13,10 @@
       "section": "How We Work",
       "topics": [
         {
+          "title": "Tools",
+          "slug": "tools"
+        },
+        {
           "title": "We're all about",
           "slug": "wwl"
         }
@@ -24,10 +28,6 @@
         {
           "title": "Experiences",
           "slug": "experiences"
-        },
-        {
-          "title": "Tools",
-          "slug": "wwl"
         }
       ]
     }
