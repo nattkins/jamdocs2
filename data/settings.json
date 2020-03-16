@@ -22,6 +22,10 @@
       "section": "Our History",
       "topics": [
         {
+          "title": "Experiences",
+          "slug": "experiences"
+        },
+        {
           "title": "Tools",
           "slug": "wwl"
         }
