@@ -16,4 +16,5 @@ fields:
   label: slug
 pages:
 - docs/experiences.md
+- docs/what-doesn-t-work.md
 - docs/what-we-like.md
