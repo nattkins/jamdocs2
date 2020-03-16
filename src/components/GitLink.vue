@@ -18,7 +18,7 @@ export default {
     },
     text: {
       type: String,
-      default: 'Ask a question'
+      default: 'Ask Us A Question'
     }
   }
 }
