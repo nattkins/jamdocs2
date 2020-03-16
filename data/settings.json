@@ -13,6 +13,10 @@
       "section": "How We Work",
       "topics": [
         {
+          "title": "What's eating Nintex?",
+          "slug": "/nintex"
+        },
+        {
           "title": "We're all about",
           "slug": "wwl"
         }
