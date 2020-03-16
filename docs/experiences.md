@@ -54,4 +54,4 @@ We have worked across multiple offices of the state within the UK government
 * Migrating 10s of TBs of documentation, and with it the supporting taxonomy and information site architecture 
 * Creating an easy to use and up to date whole government department Org Chart - this was NOT just about the tech, this was mostly about getting stakeholders, ie everyone to play their part.
 * Building apps for expenses, tracking constituency engagement 
-* Making multiple departments find their own way in the transition to new, and evolving ways of working. 
+* Making multiple departments find their own way in the transition to new, and evolving ways of working - the challenge is to make the tempo of change from office 365 make sense for organizations that like to 'take their time'
