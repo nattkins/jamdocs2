@@ -30,12 +30,12 @@ The other way to go wrong with migrations is to make any of these assumptions:
 You can probably add your own here, so that's exactly what we do, our plan is quite simple
 
  1. Get a vision, it will be a metaphor for what you want to happen.
- 2. Get widespread agreement of what will be seen and be heard differently if this vision is realized. 
+ 2. Get widespread agreement of what will be seen and be heard differently if this vision is realized.
  3. Choose technology and people that are aligned in delivering this vision.
- 4. Training / adoption 
- 5. Start 
+ 4. Training / adoption
+ 5. Start
  6. Training / adoption
- 7. Do more 
+ 7. Do more
  8. Training / adoption
  9. Reach milestone, celebrate and feel good
 10. Goto step 1
