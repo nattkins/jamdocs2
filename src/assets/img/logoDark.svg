@@ -4,9 +4,10 @@
 	 viewBox="0 0 225 52" style="enable-background:new 0 0 225 52;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FAC12C;}
-	.st1{font-family:'HelveticaNeue';}
-	.st2{font-size:36px;}
-	.st3{fill:#FFFF00;}
+	.st1{fill:#231F20;}
+	.st2{font-family:'HelveticaNeue';}
+	.st3{font-size:43.3676px;}
+	.st4{fill:#FFFF00;}
 </style>
 <g>
 	<g>
@@ -16,10 +17,10 @@
 	</g>
 	<polygon class="st0" points="53,52 53,13 13.2,52 	"/>
 </g>
-<text transform="matrix(1 0 0 1 56.8701 40.7096)" class="st1 st2">Bravo</text>
-<polyline class="st3" points="37,23.3 26.5,13 39.7,13 39.7,26 "/>
-<polyline class="st3" points="50.2,10.3 39.7,0 53,0 53,13 "/>
-<polyline class="st3" points="23.8,36.3 13.2,26 26.5,26 26.5,39 "/>
-<polyline class="st3" points="10.5,49.3 0,39 13.2,39 13.2,52 "/>
+<text transform="matrix(1 0 0 1 67.576 39.0017)" class="st1 st2 st3">Bravo</text>
+<polyline class="st4" points="37,23.3 26.5,13 39.7,13 39.7,26 "/>
+<polyline class="st4" points="50.2,10.3 39.7,0 53,0 53,13 "/>
+<polyline class="st4" points="23.8,36.3 13.2,26 26.5,26 26.5,39 "/>
+<polyline class="st4" points="10.5,49.3 0,39 13.2,39 13.2,52 "/>
 <polyline class="st0" points="2.6,41.6 13.4,51.7 0.2,52 -0.1,39 "/>
 </svg>

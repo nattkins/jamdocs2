@@ -6,7 +6,7 @@
 	.st0{fill:#FAC12C;}
 	.st1{fill:#FFFFFF;}
 	.st2{font-family:'HelveticaNeue';}
-	.st3{font-size:36px;}
+	.st3{font-size:43.3676px;}
 	.st4{fill:#FFFF00;}
 </style>
 <g>
@@ -17,7 +17,7 @@
 	</g>
 	<polygon class="st0" points="53,52 53,13 13.2,52 	"/>
 </g>
-<text transform="matrix(1 0 0 1 56.8701 40.7096)" class="st1 st2 st3">Bravo</text>
+<text transform="matrix(1 0 0 1 67.576 39.0017)" class="st1 st2 st3">Bravo</text>
 <polyline class="st4" points="37,23.3 26.5,13 39.7,13 39.7,26 "/>
 <polyline class="st4" points="50.2,10.3 39.7,0 53,0 53,13 "/>
 <polyline class="st4" points="23.8,36.3 13.2,26 26.5,26 26.5,39 "/>
