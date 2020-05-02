@@ -15,5 +15,6 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/Posts/first-post.md
 - docs/experiences.md
 - docs/what-we-like.md
