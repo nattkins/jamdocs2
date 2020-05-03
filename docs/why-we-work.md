@@ -10,11 +10,11 @@ We want to spend time on the stuff that matters - because there isn't enough to 
 
 ### So that means working remotely right?
 
-Absolutely, though it's not like there is a choice, doing remote meetings like they are in-person used to do will not save your time, in fact, they will take longer.
+Absolutely, but if you try to remote working just like in-person you'll know it just doesn't work like that, to improve on the limitations of remote meetings and to make them a more valuable way to work we deploy a number of people technologies.
 
 ### What are people technologies?
 
-These are technologies for working well with others, now more than ever we need these means: we find that agile-based project work that makes use of clean language and used liberating structures for meetings whether remote or not just makes everything more fulfilling for everyone.
+These are technologies for working well with others, now more than ever we need these means: we find that agile-based project work that makes use of [clean questions](https://www.youtube.com/watch?v=aVvcU5gG4KU "Clean Questions and metaphors") and used [liberating structures](https://www.youtube.com/watch?v=fxN-98p0CmY "liberating structures") for meetings whether remote or not just makes everything more fulfilling for everyone.
 
 ## Our Interests and values
 
