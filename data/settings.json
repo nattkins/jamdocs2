@@ -1,10 +1,19 @@
 {
   "sidebar": [
     {
-      "section": "Who We Are",
+      "section": "Why",
       "topics": [
         {
-          "title": "We are Bravo",
+          "title": "Why Bravo Criteria",
+          "slug": "why"
+        }
+      ]
+    },
+    {
+      "section": "Get to know us",
+      "topics": [
+        {
+          "title": "We're different - in a good way",
           "slug": "getting-started"
         }
       ]
