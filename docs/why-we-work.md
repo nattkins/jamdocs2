@@ -4,19 +4,29 @@ date: 2020-04-18
 slug: why
 
 ---
-We are Bravo Criteria a self-organizing consultancy that pulls together a group of diverse but like-minded people that are passionate about problem-solving in organizations, who work with the goal of bringing that same attitude to the whole organization.
+## Our Mission
+
+We want to spend time on the stuff that matters - because there isn't enough to now use it wisely. We're here to help use technology, both the computer kind, the people kind and the thinking kind to help you focus your time on getting meaningful stuff happening
+
+### So that means working remotely right?
+
+Absolutely, though it's not like there is a choice, doing remote meetings like they are in-person used to do will not save your time, in fact they will take longer. 
+
+### What are people technology?
+
+There isn't just one way but the two we like, because its the most energizing and interesting and makes best use of time are clean language and liberating structures. 
 
 ## The Out of the Box Paradox
 
 Things people say
 
 * "Don't create when you can borrow",
-* "Don't overthink it', 
+* "Don't overthink it',
 * "Don't over-engineer"
 
-All are ways to say the same thing, but we also 
+All are ways to say the same thing, but we also
 
-* Think our problems are unique 
+* Think our problems are unique
 * We have our ways of working
 * We kind of believe that computers can do anything.
 
