@@ -4,11 +4,12 @@
       <h1>{{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Who We Are" icon="BookOpenIcon" />
-        <Shortcut link="/wwl" text="How We Work" icon="CoffeeIcon" />
-        <Shortcut link="/experiences" text="Our History" icon="AnchorIcon" />
+        <Shortcut link="/getting-started" text="Who We Are" icon="SmileIcon"/>
+        <Shortcut link="/why" text="Why we work" icon="EyeIcon"/>
+        <Shortcut link="/wwl" text="How We Work" icon="MapPinIcon"/>
+        <Shortcut link="/experiences" text="Activty Blog" icon="ActivityIcon"/>
       </nav>
-       <GitLink class="git" size="large" />
+      <GitLink class="git" size="large"/>
     </div>
   </Layout>
 </template>
@@ -22,8 +23,8 @@ query {
 </static-query>
 
 <script>
-import GitLink from '~/components/GitLink.vue'
-import Shortcut from '~/components/Shortcut.vue'
+import GitLink from "~/components/GitLink.vue";
+import Shortcut from "~/components/Shortcut.vue";
 
 export default {
   components: {
@@ -32,18 +33,22 @@ export default {
   },
   data() {
     return {
-      description: 'We listen, ask questions and help you make things better.'
-    }
+      description: "We listen, ask questions and help you make things better."
+    };
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'You will love working with us.' }
+        {
+          key: "description",
+          name: "description",
+          content: "You will love working with us."
+        }
       ]
-    }
+    };
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
