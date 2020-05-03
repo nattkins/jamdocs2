@@ -14,23 +14,7 @@ Absolutely, though it's not like there is a choice, doing remote meetings like t
 
 ### What are people technology?
 
-There isn't just one way but the two we like, because its the most energizing and interesting and makes best use of time are clean language and liberating structures. 
-
-## The Out of the Box Paradox
-
-Things people say
-
-* "Don't create when you can borrow",
-* "Don't overthink it',
-* "Don't over-engineer"
-
-All are ways to say the same thing, but we also
-
-* Think our problems are unique
-* We have our ways of working
-* We kind of believe that computers can do anything.
-
-So you have a paradox, and possibly more than one. That's what following a mentoring / training -  approach can give you. Here at Bravo Criteria we believe that if we let you see what's possible, you'll discover your way of solving problems, that's makes sense with those tools.
+There isn't just one way but the two we like, because they are most energizing and productive and of course make best use of time are clean language and liberating structures. 
 
 ## Our Interests and values
 
