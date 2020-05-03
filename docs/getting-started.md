@@ -4,41 +4,16 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
 
 ---
-We are Bravo Criteria a self-organizing consultancy that pulls together a group of diverse but like-minded people that are passionate about problem-solving in organizations, who work with the goal of bringing that same attitude to the whole organization.
-
-## Our Interests and values
-
-* We relish large engaging meetings (both remote and in-person) and we use liberating structures to do this
-* Adoption and engagement are central to our practice - we want to help our clients do amazing things.
-* We use a systemic approach that asks why problems are problems, before jumping and busily 'solving' them.
-* We believe like TRIZ that there aren't 'unique' problems, there are families of problems to which there are already solutions.
-* We value curiosity when talking and listening and checking in with people, sometimes using - Clean Language because chances are - if we assume - we'll make an ass out of you and me.
-* We're all about 'cleaning up the inputs'
-* We have found that an agile approach that leads with documentation and demonstration works best with clients of all sizes.
-
-## Our Approach
-
-* We relish large engaging meetings (both remote and in-person) and we use liberating structures to do this
-* Adoption and engagement are central to our practice - we want to help our clients do amazing things.
-* We use a systemic approach that asks why problems are problems, before jumping and busily 'solving' them.
-* We believe like TRIZ that there aren't unique problems, there are families of problems to which there are already solutions.
-* We value curiosity when talking and listening and checking in with people, sometimes using - Clean Language because chances are - if we assume - we'll make an ass out of you and me.
-* We're all about 'cleaning up the inputs'
-* We have found an agile approach that leads with documentation and demonstration works best with clients of all sizes.
 
 ## The document and demo first approach
 
 We've heard this before?
 
-Consultant: What is that you do?
-Client: What do you want us to do?
-Consultant: Well that depends what you do?
-Client:....
-Everybody else (sighing): we could be here some time.
+Consultant: What is that you do? Client: What do you want us to do? Consultant: Well that depends what you do? Client:.... Everybody else (sighing): we could be here some time.
 
 ### So how about we change the script?
 
-It really shouldn't be that complicated, you have a think about the sort of problems you are facing, and we demontrate the kinds of thing that are possible.
+It really shouldn't be that complicated, you have a think about the sort of problems you are facing, and we demonstrate the kinds of things that are possible.
 
 ### Facing the future
 
@@ -57,7 +32,7 @@ It isn't that's true, and we are keen on the traditional document first approach
 
 The philosophy behind Documentation-Driven Development is simple: **from the perspective of a user, if a feature is not documented, then it doesn't exist, and if a feature is documented incorrectly, then it's broken.**
 
-* Document the feature _first_. Figure out how you're going to describe the feature to users; if it's not documented, it doesn't exist. _This is where a demo can really come into its own, its just the most efficient way to get the user to see what they are going to get, with the demo done and approved - the write-up and screenshotting are straightforward._
+* Document the feature _first_. Figure out how you're going to describe the feature to users; if it's not documented, it doesn't exist. _This is where a demo can really come into its own, it's just the most efficient way to get the user to see what they are going to get, with the demo done and approved - the write-up and screenshotting are straightforward._
 * Whenever possible, documentation should be reviewed by users before any development begins.
 * Once documentation has been written, _recorded,_ development should commence, and test-driven development is preferred.
 * Unit tests should be written that test the features as described by the documentation. If the functionality ever comes out of alignment with the documentation, tests should fail.
