@@ -4,13 +4,35 @@ date: 2020-03-08
 slug: experiences
 
 ---
-## Working Remotely 
+## Working Remotely
 
-We've been doing it for a while - and didn't think it was such a big deal - we do a quick graphic to show who we have worked with remotely
+We've been doing it for a while - and didn't think it was such a big deal - so we did a quick graphic to show who we have worked with remotely
 
-![](/worldwide.png)
+![](/world.png)
 
- 
+* Remotely with an international media company with office in  New York to create sensible intranet governance for all their different brands
+* Remotely with a telecoms organization based in London, Munich and Madrid to ensure cross European collaboration.
+* Again to New York, London and world-wide for a ratings agency to create a tool to enable insight and collaboration where there had been none.
+* Remotely with 20 people simultaneously in Bucharest leading liberating structure workshops to facilitate growth and empathy for those trying to solve complex challenges.
+* In Bangalore 
+
+## The Out of the Box Paradox
+
+Things people say
+
+* "Don't create when you can borrow",
+* "Don't overthink it',
+* "Don't over-engineer"
+
+All are ways to say the same thing, but we also
+
+* Think our problems are unique
+* We have our ways of working
+* We kind of believe that computers can do anything.
+
+So you have a paradox, and possibly more than one. That's what following a mentoring / training -  approach can give you. Here at Bravo Criteria we believe that if we let you see what's possible, you'll discover your way of solving problems, that's makes sense with those tools.
+
+## 
 
 ## About Migrations
 
