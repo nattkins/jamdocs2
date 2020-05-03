@@ -4,9 +4,9 @@ date: 2020-03-08
 slug: experiences
 
 ---
-## Working Remotely
+## Working Remotely and covid-19
 
-We've been doing it for a while - and didn't think it was such a big deal - so we did a quick graphic to show who we have worked with remotely
+At Bravo Criteria working remotely is our preferred way of working, so one of the few benefits of covid-19 for us is that we don't have to explain the benefits of this way of working to anyone anymore. Just as an exercise we wondered how many different countries we had worked across and within about 15 mins we came up with these: 
 
 ![](/world.png)
 
