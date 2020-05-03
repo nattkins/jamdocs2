@@ -10,14 +10,19 @@
 </template>
 
 <script>
-import { CoffeeIcon, AnchorIcon, BookOpenIcon, CompassIcon} from 'vue-feather-icons'
+import {
+  EyeIcon,
+  ActivityIcon,
+  MapPinIcon,
+  SmileIcon
+} from "vue-feather-icons";
 
 export default {
   components: {
-    CoffeeIcon,
-    AnchorIcon,
-    BookOpenIcon,
-    CompassIcon
+    EyeIcon,
+    ActivityIcon,
+    MapPinIcon,
+    SmileIcon
   },
   props: {
     link: {
@@ -33,28 +38,28 @@ export default {
       required: true
     }
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
 article {
-    flex: 1 0;
-    border: 1px solid shade($sidebarBright, 10%);
-    margin: 0 0 1em;
-    background: $sidebarBright;
-    padding: 2rem;
-    border-radius: 3px;
-    transition: background .15s ease-in-out, border-color .15s ease-in-out;
+  flex: 1 0;
+  border: 1px solid shade($sidebarBright, 10%);
+  margin: 0 0 1em;
+  background: $sidebarBright;
+  padding: 2rem;
+  border-radius: 3px;
+  transition: background 0.15s ease-in-out, border-color 0.15s ease-in-out;
 
-    @include respond-above(sm) {
-      margin: 0 1em 0;
-    }
-
-    .dark & {
-      border: 1px solid shade($sidebarDark, 10%);
-      background: $sidebarDark;
-    }
+  @include respond-above(sm) {
+    margin: 0 1em 0;
   }
+
+  .dark & {
+    border: 1px solid shade($sidebarDark, 10%);
+    background: $sidebarDark;
+  }
+}
 
 a {
   color: inherit;
