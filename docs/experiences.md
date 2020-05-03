@@ -10,11 +10,14 @@ We've been doing it for a while - and didn't think it was such a big deal - so w
 
 ![](/world.png)
 
-* Remotely with an international media company with office in  New York to create sensible intranet governance for all their different brands
-* Remotely with a telecoms organization based in London, Munich and Madrid to ensure cross European collaboration.
-* Again to New York, London and world-wide for a ratings agency to create a tool to enable insight and collaboration where there had been none.
+* Remotely with an international media company with offices in  New York to create sensible intranet governance for all their different brands
+* Remotely with a telecoms organization based in London, Munich, and Madrid to ensure cross European collaboration.
+* Again to New York, London, and world-wide for a ratings agency to create a tool to enable insight and collaboration where there previously had been none.
 * Remotely with 20 people simultaneously in Bucharest leading liberating structure workshops to facilitate growth and empathy for those trying to solve complex challenges.
-* In Bangalore 
+* To multiple Bangalore based Development teams, handing over technical solutions.
+* In Hong Kong for a 20 strong finance team who were responsible for auditing the whole of the APAC region, we remotely facilitated the requirements and design of a tool to manage the collection of reports from approximately 200 different markets at different periods from different teams.
+* In Melbourne performing remote security auditing of numerous payroll solutions
+* For a Japan-based advertising agency remotely designing and developing a global prize award solution, which enabled globe-wide collaboration on the awarding of prizes.
 
 ## The Out of the Box Paradox
 
@@ -24,13 +27,13 @@ Things people say
 * "Don't overthink it',
 * "Don't over-engineer"
 
-All are ways to say the same thing, but we also
+All are ways to say the same thing, but we also say
 
-* Think our problems are unique
-* We have our ways of working
-* We kind of believe that computers can do anything.
+* "We do things differently here"
+* "There is our ways of working"
+* "It just has to be done a certain way"
 
-So you have a paradox, and possibly more than one. That's what following a mentoring / training -  approach can give you. Here at Bravo Criteria we believe that if we let you see what's possible, you'll discover your way of solving problems, that's makes sense with those tools.
+So you have a paradox, and possibly more than one. That's what following a mentoring / training approach can help with. Here at Bravo Criteria we believe that if we let you see what's possible, you'll discover your way of solving problems.
 
 ## 
 
