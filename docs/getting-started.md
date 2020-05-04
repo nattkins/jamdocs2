@@ -4,7 +4,7 @@ date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
 
 ---
-We are Bravo Criteria a self-organizing consultancy that pulls together a group of diverse but like-minded people that are passionate about problem-solving in organizations, who work with the goal of bringing that same attitude to the whole organization.
+We are Bravo Criteria a self-organizing consultancy that pulls together a group of diverse people passionate about saving time from being wasted in organizations. 
 
 ## The document and demo first approach
 
